@@ -10,10 +10,10 @@ int main()
   {
     if ( i < 30 )
     {
-      printf( "Here " ) ;
+      printf( " Here" ) ;
       if ( i == 8 )
       {
-        printf( "This is 8. " ) ;
+        printf( " This is 8." ) ;
       }//End Function This is 8.
     }//End Function Here
     printf( "ok" ) ;
